@@ -1,0 +1,5 @@
+log is :function Date() { [native code] } GET /log is :function Date() { [native code] } GET /log is :function Date() { [native code] } GET /log is :function Date() { [native code] } GET /log is :function Date() { [native code] } GET /log is :function Date() { [native code] } GET /log is :function Date() { [native code] } GET /log is :function Date() { [native code] } GET /log is :function Date() { [native code] } GET /aboutlog is :Thu Jan 24 2019 16:06:34 GMT+0530 (IST) GET /
+log is :Thu Jan 24 2019 16:06:40 GMT+0530 (IST) GET /
+log is :Thu Jan 24 2019 16:06:41 GMT+0530 (IST) GET /about
+log is :Thu Jan 24 2019 16:06:41 GMT+0530 (IST) GET /
+log is :Thu Jan 24 2019 16:06:42 GMT+0530 (IST) GET /about
